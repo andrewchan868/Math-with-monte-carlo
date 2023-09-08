@@ -11,7 +11,8 @@ Imagine a unit circle (radius = 1) inscribed inside a square with a side length 
 ### Mathematical Approach:
 The area of the circle = pi (since radius = 1) and the area of the square = 4. The ratio of the areas is:
 
-Acircle/ Asquare = ㅠ/ 4
+![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/8920b064-e5b9-480c-bf99-077450c138f6)
+
 
 ### Monte Carlo Simulation:
 1. Randomly "throw" a large number N of darts at the square.
