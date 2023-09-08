@@ -4,7 +4,7 @@
 The value of pi is a mathematical constant that represents the ratio of a circle's circumference to its diameter. While there are many ways to determine pi, this repository demonstrates a fun and interesting method using Monte Carlo simulation.
 
 ## Problem Statement:
-Imagine a unit circle (radius = 1) inscribed inside a square with a side length of 2. If we randomly throw darts at the square, the ratio of the number of darts that land inside the circle to the total number of darts thrown should approximate \( \frac{\pi}{4} \).
+Imagine a unit circle (radius = 1) inscribed inside a square with a side length of 2. If we randomly throw darts at the square, the ratio of the number of darts that land inside the circle to the total number of darts thrown should approximate pi /4.
 
 ## Methodology:
 
