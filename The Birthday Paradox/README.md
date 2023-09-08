@@ -18,9 +18,9 @@ The probability that two people in a group of n do not share the same birthday c
 
 The probability that at least two people in a group of n share the same birthday is the complement:
 
->> P (same) = 1 - P (Different)
+**P (same) = 1 - P (Different)**
 
->> For n = 23, P(same) exceeds 50%.
+For n = 23, P(same) exceeds 50%.
 
 
 ### Monte Carlo Simulation:
