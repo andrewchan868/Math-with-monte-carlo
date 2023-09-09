@@ -16,8 +16,8 @@ The question: Over the long term, what fraction of time does the driver expect t
 ### 1. Mathematical Approach
 
 The problem can be modeled using Markov chains, where the two states represent the left and right lanes. Let:
-L represent the probability of being in the left lane.
-R represent the probability of being in the right lane.
+- L represent the probability of being in the left lane.
+- R represent the probability of being in the right lane.
 
 Given the problem statement:
 
