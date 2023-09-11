@@ -15,7 +15,9 @@ Each cereal box contains one toy, and there are 10 different types of toys: T1, 
 
 Using probability theory and the inclusion-exclusion principle, we derived the probabilities for both scenarios.
 1. 1 - (9/10)^20
+
 2.
+
    ![IMG_B49FA85ED00A-1](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/dbf40564-9eeb-457f-b7d0-d9e3a0bec9e4)
 
 ### 2. Monte Carlo Simulation Approach
