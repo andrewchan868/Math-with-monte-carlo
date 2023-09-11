@@ -31,7 +31,8 @@ By simulating the toy collection process over a large number of trials, we estim
   2. Probability of collecting all toys:
 
 <img width="809" alt="螢幕截圖 2023-09-11 15 10 26" src="https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/fd61418b-e3d8-44f9-907e-4135afb8c205">
-
+Solution:
+<img width="279" alt="螢幕截圖 2023-09-11 15 16 12" src="https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/a7110c6a-0d44-49ee-8d3b-44bc30886dfb">
 
 - **Monte Carlo Simulation**:
   1. Estimated probability of collecting all toys: 21.85%.
