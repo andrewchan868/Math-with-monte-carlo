@@ -2,12 +2,16 @@
 
 This repository delves into the problem of collecting toys from cereal boxes. Each box contains one of 10 possible toys, with each toy having an equal chance of being in a box. Over a span of 20 weeks, with one box purchased each week, we want to analyze the probabilities of certain collection scenarios.
 
+This problem is similar to the [Coupon-Collector](https://github.com/andrewchan868/Coupon-Collector) problem, but with a greater focus on probability analysis.
+
+
 ## Problem Statement
 
 Each cereal box contains one toy, and there are 10 different types of toys: T1, T2, ..., T10. Each toy has a 1/10 probability of being in a box, independent of any other box. After 20 weeks (or 20 boxes), we want to determine:
 
 1. The probability of having at least one copy of toy T1.
 2. The probability of collecting all 10 different toys.
+
 
 ## Approaches
 
