@@ -22,4 +22,6 @@ By running this simulation for a large number of iterations, we approximated the
 
 ### Result
 
-After running the simulation for 100,000 iterations, the estimated probability that A and B meet on the 3x3 grid is approximately 37.54%.
+After running the simulation for 100,000 iterations, the estimated probability that A and B meet on the 3x3 grid is approximately 31.4%.
+
+While 2 x 2 is 37.5%
