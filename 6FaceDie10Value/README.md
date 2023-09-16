@@ -26,7 +26,7 @@ The simulation follows a two-roll approach:
 ![IMG_2207](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/27b6984f-34ca-4bec-939d-972046c6fdcf)
 
 
-# How about D15 Dices using D6?
+# How about D15 Dice using D6?
 
 The idea would be similar
 ![IMG_2209](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/642d6244-a265-4638-b54b-ff22c95686d5)
