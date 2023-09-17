@@ -18,7 +18,10 @@ Given Player B's ability to react to Player A's choice, they can always position
 
 If Player A chooses n:
 
-![IMG_82C4E4573FA8-1](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/4947847f-f263-4a3e-b831-0b0bd8a9ef1d)
+- Player B chooses n−1, the EV for Player A is the sum of numbers from n to 30 inclusive.
+- Player B chooses n+1, the EV for Player A is the sum of numbers from 1 to n inclusive.
+
+![IMG_73F61EF1240D-1](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/817c0b40-ba52-4b1b-9b12-8f0412628d09)
 
 
 ### Optimal Choices
@@ -28,7 +31,7 @@ If Player A chooses n:
 
 
 - For Player B: Always choose the number that allows you to capture the higher expected value range.
-- For Player A: The analysis shows that choosing 21 offers the highest expected value. However, Player B still retains a strategic advantage.
+- For Player A: The analysis shows that choosing 22 offers the highest expected value. However, Player B still retains a strategic advantage.
 
 ## Conclusion
 
