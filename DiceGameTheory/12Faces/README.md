@@ -22,7 +22,7 @@ Here's a table showing the EV for each possible choice:
 | 8      | 1.2255              |
 | 9      | 1.4055              |
 | 10     | 1.5855              |
-| 11     | 7.4                 |
+| 11     | 11*0.4 + EV(12)=278/55|
 | 12     | 0.6545              |
 
 ## Strategy
