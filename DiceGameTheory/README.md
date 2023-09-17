@@ -16,14 +16,15 @@ Given Player B's ability to react to Player A's choice, they can always position
 
 ### Mathematical Explanation
 
-If Player A chooses \( n \):
+If Player A chooses n:
 
 ![IMG_82C4E4573FA8-1](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/4947847f-f263-4a3e-b831-0b0bd8a9ef1d)
 
 
 ### Optimal Choices
 
-![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/6552c929-6246-49bb-a943-83527d8b9cc2)
+![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/f372b530-4ee0-4dec-93a3-08e788442a19)
+
 
 
 - For Player B: Always choose the number that allows you to capture the higher expected value range.
@@ -31,4 +32,4 @@ If Player A chooses \( n \):
 
 ## Conclusion
 
-Given the structure of the game, Player B always has the upper hand. If given a choice, it's better to go second. If you must go first, 21 is the optimal number to pick.
+Given the structure of the game, Player B always has the upper hand. If given a choice, it's better to go second. If you must go first, 22 is the optimal number to pick.
