@@ -28,6 +28,10 @@ In addition to the mathematical approach, a Monte Carlo simulation was used to e
 
 ## Results
 
+![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/3d1b77d1-84f6-4f69-b613-9718592caf27)
+
+As you can observe, the probability peaks around the sum of 11, further confirming why it offers the highest expected winnings.
+
 ![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/44acdc5f-f80e-4175-810a-a7173be39ac1)
 
 
