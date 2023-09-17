@@ -12,8 +12,8 @@ Here's a table showing the EV for each possible choice:
 
 | Choice | Expected Value (EV) |
 |--------|---------------------|
-| 1      | 0.0545              |
-| 2      | 0.1455              |
+| 1      | 1*3/55=0.0545       |
+| 2      | 1x3/55+2x3/55=0.1455|
 | 3      | 0.3255              |
 | 4      | 0.5055              |
 | 5      | 0.6855              |
