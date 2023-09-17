@@ -1,6 +1,6 @@
 # Unfair Dice Game Strategy
 
-In this game, we're dealing with a 12-faced dice with uneven probabilities. Specifically, the number 11 has a 40% chance of being rolled, while all other numbers have an equal likelihood of 3/55.
+In this game, we're dealing with a 12-faced dice with uneven probabilities. Specifically, the number 11 has a 40% chance of being rolled, while all other numbers have an equal likelihood of 3/55 which is 0.6/11.
 
 Two players compete. Each player chooses a number. The dice is then rolled. The player whose chosen number is closest to the rolled number wins.
 
