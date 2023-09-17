@@ -23,6 +23,9 @@ If Player A chooses \( n \):
 
 ### Optimal Choices
 
+![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/6552c929-6246-49bb-a943-83527d8b9cc2)
+
+
 - For Player B: Always choose the number that allows you to capture the higher expected value range.
 - For Player A: The analysis shows that choosing 21 offers the highest expected value. However, Player B still retains a strategic advantage.
 
