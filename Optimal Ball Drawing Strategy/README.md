@@ -38,7 +38,3 @@ To determine the expected earnings from the next draw, you need to consider the 
 
 By following this strategy, you can find the number of draws that maximizes your expected earnings without overly risking drawing the yellow ball.
 
-## Monte Carlo
-
-Average Earnings: $12.50
-Average Draws Until Yellow: 51.01
