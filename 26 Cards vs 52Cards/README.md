@@ -6,17 +6,19 @@ In this analysis, we explore the probability of drawing two cards of the same co
 
 1. **Choice A**: Deck with 26 Black cards and 26 Red cards.
 
-**Choice A
-P_2Black_A = (26/52) * (25/51)
-P_2Red_A = (26/52) * (25/51)
-P_A = P_2Black_A + P_2Red_A**
+> P_2Black_A = (26/52) * (25/51)
+
+> P_2Red_A = (26/52) * (25/51)
+
+> P_A = P_2Black_A + P_2Red_A
 
 2. **Choice B**: Deck with 13 Black cards and 13 Red cards.
 
-**Choice B
-P_2Black_B = (13/26) * (12/25)
-P_2Red_B = (13/26) * (12/25)
-P_B = P_2Black_B + P_2Red_B**
+> P_2Black_B = (13/26) * (12/25)
+
+> P_2Red_B = (13/26) * (12/25)
+
+> P_B = P_2Black_B + P_2Red_B
 
 
 3. **Choice C**: Deck with a random 26 cards drawn from a standard 52-card deck.
