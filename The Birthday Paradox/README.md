@@ -15,13 +15,13 @@ The probability that two people in a group of n do not share the same birthday c
 
 ![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/a33d7ef1-8afc-418c-877c-af6bb1b23a8f)
 
-
 The probability that at least two people in a group of n share the same birthday is the complement:
 
 **P (same) = 1 - P (Different)**
 
 For n = 23, P(same) exceeds 50%.
 
+![image](https://github.com/andrewchan868/Math-with-monte-carlo/assets/66477660/3ac141e7-a2ca-4874-bbc6-92934e4e5c81)
 
 ### Monte Carlo Simulation:
 The Monte Carlo method provides a way to empirically verify this result:
